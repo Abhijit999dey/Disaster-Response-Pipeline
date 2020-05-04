@@ -38,6 +38,12 @@ This project contains three main parts: ETL Pipeline, Machine Learning Pipeline 
  ### Screenshots of the web app
 
 ![INTRO](/screenshots/intro.png)
+![mainpage](/screenshots/main_page.png)
+![process data](/screenshots/process_data.png)
+![input](/screenshots/sample_input.png)
+![output](/screenshots/sample_output.png)
+![train_classifier](/screenshots/train_classifier.png)
+![train_classifier_category_precision_recall](/screenshots/train_classifier_category_precision_recall.png)
 
 
 
