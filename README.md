@@ -1,5 +1,5 @@
 # Disaster Response Pipeline Project
-##By Abhijit Dey 
+By Abhijit Dey 
 
 ### Project Overview
 
