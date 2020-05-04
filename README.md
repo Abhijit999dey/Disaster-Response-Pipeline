@@ -37,7 +37,7 @@ This project contains three main parts: ETL Pipeline, Machine Learning Pipeline 
  
  ### Screenshots of the web app
 
-![INTRO](https://github.com/Abhijit999dey/Disaster-Response-Pipeline/tree/master/screenshots/intro.png)
+![INTRO](/screenshots/intro.png)
 
 
 
